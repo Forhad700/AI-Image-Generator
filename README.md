@@ -15,5 +15,5 @@ AI Image Generator is a **Generative AI** project powered by **Large Language Mo
 - **APIs**:
   - Hugging Face Inference API to access pre-trained image generation models.
 - **Models**:
-  - **Stable Diffusion XL (SDXL)** — text-to-image generation model.
+  - **Stable Diffusion XL (SDXL)**
 ---
