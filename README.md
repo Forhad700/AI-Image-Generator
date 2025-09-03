@@ -1,7 +1,6 @@
 # AI Image Generator
 
-Turn text prompts into AI-generated images using **Generative AI** and **Large Language Models (LLMs)**.  
-This project integrates **Stable Diffusion XL** from **Hugging Face** to perform **text-to-image generation**, wrapped in a Flask web app and deployed serverlessly via **Render**.
+This project transforms text prompts into AI-generated images using **Generative AI** and **Large Language Models (LLMs)**. It leverages the **Stable Diffusion XL** model via **Hugging Face** to perform high-quality text-to-image generation.
 
 ---
 
