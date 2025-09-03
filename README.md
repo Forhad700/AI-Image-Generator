@@ -1,35 +1,19 @@
 # AI Image Generator
 
-This project transforms text prompts into AI-generated images using **Generative AI** and **Large Language Models (LLMs)**. It leverages the **Stable Diffusion XL** model via **Hugging Face** to perform high-quality text-to-image generation.
+AI Image Generator is a **Generative AI** project powered by **Large Language Models (LLMs)** and advanced diffusion techniques. It enables users to transform text prompts into visually compelling, AI-generated images. By combining natural language understanding with image generation, this project showcases the creative power of modern multimodal AI systems.
 
----
+## Features
+- **Text-to-Image Generation**: Generate high-quality images based on user input prompts.
+- **Prompt-Driven Creativity**: Simple interface for creative exploration and visual storytelling.
+- **Generative AI in Action**: Utilizes diffusion-based models for photorealistic results.
+- **Smooth User Experience**: Fast and responsive application interface.
 
-## 🌐 Live Demo
-
-🔗 [https://ai-image-generator-zelx.onrender.com](https://ai-image-generator-zelx.onrender.com)
-
----
-
-## 📌 Project Overview
-
-This is a **Generative AI** project that demonstrates how to convert natural language prompts into high-quality images using:
-
-- ✨ **Stable Diffusion XL Base 1.0** — A powerful latent text-to-image diffusion model
-- 🧠 **Large Language Models (LLMs)** — Used under the hood to understand and encode text prompts
-- 🌍 **Hugging Face Inference API** — Provides access to hosted models
-- 🐍 **Flask (Python)** — Lightweight backend web framework
-- ☁️ **Render** — Free cloud hosting for web apps
-
-Whether you're building a creative tool, an AI art generator, or experimenting with multimodal AI, this project gives you a fast and deployable foundation.
-
----
-
-## ⚙️ Features
-
-- 🔤 Enter any text prompt — realistic or imaginative
-- 🧠 Uses **LLM-based encoders** to interpret and visualize text
-- 🎨 Generates stunning, photorealistic images via **Stable Diffusion XL**
-- 🌐 Hosted serverlessly on **Render**
-- 🧪 Built for experimentation and learning in the **Generative AI** space
-
+## Tech Stack
+- **Programming Language**: Python
+- **Frameworks**:
+  - Flask for building the backend web server.
+- **APIs**:
+  - Hugging Face Inference API to access pre-trained image generation models.
+- **Models**:
+  - **Stable Diffusion XL (SDXL)** — text-to-image generation model.
 ---
